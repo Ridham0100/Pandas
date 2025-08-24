@@ -1,5 +1,9 @@
 🐼 Pandas Notes & Assignments
 
+Assignment 1 dataset : https://drive.google.com/file/d/1GBUFqt_V-Akk_m8-_6ObtQEHa1WdVHcI/view?usp=drive_link
+
+Assignment 2 dataset : https://drive.google.com/file/d/1OPXcLRjE0Bx06kJo_V8TgRsGUoOHXzVc/view?usp=drive_link
+
 This repository contains comprehensive Pandas learning material, including:
 
 📒 Detailed notes covering key Pandas concepts
